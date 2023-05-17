@@ -18,7 +18,7 @@ Summary: \
 -> YearMonth column had the year and month details. \
 -> Sales column had the cumulative sales for the corresponding month. \
 -> Data was read using pandas and plotted using seaborn to visualise. \
--> Statistical Analysis was done and insights were drwan. \
+-> Statistical Analysis was done and insights were drawn. \
 -> Time series data was decomposed into trend and seasonality using both additive and multiplicative seasonality and visualised. \
 -> Multiple prediction models such as Regression, Navive Forecast, Simple Average, SES, DES, TES-A, TES-M, ARIMA, SARIMA, etc. \
 -> Performance for various models was compared using RMSE scores. \
